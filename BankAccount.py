@@ -41,5 +41,13 @@ print(account.deposit(12000, 2136688776))
 print(account.withdraw(12000, 2136688776))
 print(account.getBalance())
 
+# Output
+# 2136688776
+# 0.0
+# 10000.0
+# 22000.0
+# Take 12000.0 balance is 10000.0
+# 10000.0
+
 
 
